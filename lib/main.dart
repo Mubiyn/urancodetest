@@ -79,7 +79,7 @@ class _UranTestSplashScreenState extends State<UranTestSplashScreen> {
             Padding(
               padding: EdgeInsets.only(top: dimension.buttonHeight!),
               child: Text(
-                "Uran Test",
+                "Uran Test 👌",
                 style: textTheme().bodyText2,
               ),
             ),
