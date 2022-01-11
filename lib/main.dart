@@ -47,7 +47,7 @@ class _UranTestSplashScreenState extends State<UranTestSplashScreen> {
   void initState() {
     super.initState();
     log("splash started");
-    Timer(Duration(seconds: 3), () {
+    Timer(Duration(seconds: 4), () {
       Navigator.of(context).pushAndRemoveUntil(
         MaterialPageRoute(
           builder: (context) => ExhibitScreen(),

@@ -2,7 +2,7 @@ import 'dart:developer';
 
 import 'package:dio/dio.dart';
 import 'package:urancodetest/core/helpers/services_helpers.dart';
-import 'package:urancodetest/core/models/exhibit_model.dart';
+import 'package:urancodetest/core/models/models.dart';
 
 class ExhibitRequestService {
   // the webservice for the http requests
